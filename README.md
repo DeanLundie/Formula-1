@@ -1,6 +1,11 @@
 # **Formula-1** 
 
-The aim of this project is to predict Formula 1 podium positions using machine learning models
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86531906/125710546-9a95c6e6-4cde-4b68-a3d8-ccfcddc53310.jpeg" alt="ferrari-sf21-f1-2021-f1-cars-2021-formula-one-world-3840x2160-4865"/>
+</p>
+
+## **Summary**
+There are two primary aims of this project. The first is to predict Formula 1 podium positions using machine learning models. This will involve collecting and preprocessing historical F1 data to make it suitable for model comparisons. The second objective is to use this model to estimate expected returns from betting on driver's performance for an entire F1 test season
 
 ## **Workflow**
 This project can be broadly split into 4 stages:
